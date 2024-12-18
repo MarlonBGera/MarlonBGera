@@ -17,12 +17,14 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![API](https://img.shields.io/badge/-API-02569B?style=for-the-badge&logo=api&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-02569B?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ## 📂 Meus Projetos
-🔗 [Projeto X](https://github.com/seuusuario/projeto-x): Descrição do projeto.  
-🔗 [Projeto Y](https://github.com/seuusuario/projeto-y): Descrição do projeto.  
+🔗 [Sistema de Gestão EVL](https://evl.solucoesgf.com.br): Projeto desenvolvido para trabalhar em conjunto com IOT, onde é lançado os dados de medição e para melhor tomada de decisão da parte gerencial da empresa.  
+🔗 [Portal da Engenharia de Confiabilidade](confiabilidadelimeira.solucoesgf.com.br): Portal para unificar todos os medidores de tomada de decisão da empresa em um só lugar e telas preenchiveis para os usuarios apontarem seus trabalhos e futuros trabalhso.
 
 ---
 
@@ -30,6 +32,17 @@
 💼 Atualmente, trabalho em projetos PHP e Laravel.  
 📚 Estou aprendendo **Vue.js** e expandindo meus conhecimentos em **M3**.  
 🌱 Interesso-me por **IoT**, **Chatbots** e **Desenvolvimento de APIs**.
+
+---
+
+## 🌟 Filosofia:
+Acredito que tecnologia deve simplificar a vida e criar oportunidades para todos.
+
+---
+
+## ⚡ Hobbies:
+🎮 Gamer nas horas vagas, fã de RPGs e jogos de estratégia.
+🏀 Apaixonado por basquete, assisto e jogo.
 
 ---
 
