@@ -3,7 +3,7 @@
 🚀 **Desenvolvedor PHP & Laravel** com experiência em:
 - **Front-end:** JavaScript, jQuery, VueJS (iniciante), Bootstrap, Material Design (M3).
 - **Back-end:** Laravel, MySQL, APIs REST.
-- **Outras Ferramentas:** XAMPP, Composer, Git.
+- **Outras Ferramentas:** XAMPP, Composer, Git, AWS, Google Cloud.
 
 🎯 Estou sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor.
 
