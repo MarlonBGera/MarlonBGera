@@ -30,18 +30,18 @@
 
 ## 🧑‍💻 Sobre Mim
 💼 Atualmente, trabalho em projetos PHP e Laravel.  
-📚 Estou aprendendo **Vue.js** e expandindo meus conhecimentos em **M3**.  
+📚 Estou aprendendo **Vue.js** e expandindo meus conhecimentos em **M3**.
 🌱 Interesso-me por **IoT**, **Chatbots** e **Desenvolvimento de APIs**.
 
 ---
 
 ## 🌟 Filosofia:
-Acredito que tecnologia deve simplificar a vida e criar oportunidades para todos.
+💻 Acredito que tecnologia deve simplificar a vida e criar oportunidades para todos.
 
 ---
 
 ## ⚡ Hobbies:
-🎮 Gamer nas horas vagas, fã de RPGs e jogos de estratégia.
+🎮 Gamer nas horas vagas, fã de RPGs e jogos de estratégia.  
 🏀 Apaixonado por basquete, assisto e jogo.
 
 ---
