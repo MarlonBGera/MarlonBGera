@@ -30,7 +30,7 @@
 
 ## 🧑‍💻 Sobre Mim
 💼 Atualmente, trabalho em projetos PHP e Laravel.  
-📚 Estou aprendendo **Vue.js** e expandindo meus conhecimentos em **M3**.
+📚 Estou aprendendo **Vue.js** e expandindo meus conhecimentos em **M3**.  
 🌱 Interesso-me por **IoT**, **Chatbots** e **Desenvolvimento de APIs**.
 
 ---
